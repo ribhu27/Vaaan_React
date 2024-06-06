@@ -1,0 +1,10 @@
+{"show_cams": "True",
+ "show_zones": "False",
+  "show_boxes": "False", 
+  "all_zones": {
+                "0": "[(78, 581), (586, 598), (622, 84), (466, 69)]"
+                }, 
+    "atcc_line": {
+                "atcc_line": "[(127, 519), (588, 565)]"
+                }
+}
